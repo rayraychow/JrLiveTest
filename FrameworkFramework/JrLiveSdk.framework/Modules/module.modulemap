@@ -1,0 +1,6 @@
+framework module JrLiveSdk {
+  umbrella header "JrLiveSdk.h"
+
+  export *
+  module * { export * }
+}
